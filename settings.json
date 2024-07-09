@@ -1,0 +1,106 @@
+{
+  "breadcrumbs.enabled": true,
+  "cSpell.language": "en,pt,pt_BR",
+  "editor.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 1.8,
+  "editor.fontVariations": false,
+  "editor.autoClosingDelete": "always",
+  "editor.parameterHints.enabled": false,
+  "editor.suggestSelection": "first",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.renderWhitespace": "trailing",
+  "editor.renderLineHighlight": "gutter",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.codeLens": false,
+  "editor.accessibilitySupport": "off",
+  "editor.semanticHighlighting.enabled": false,
+  "errorLens.fontSize": "10px",
+  "errorLens.fontWeight": "700",
+  "errorLens.messageBackgroundMode": "message",
+  "errorLens.padding": "1px",
+  "inline-parameters.fontWeight": "700",
+  "inline-parameters.fontStyle": "normal",
+  "inline-parameters.fontSize": "10px",
+  "inline-parameters.padding": "1px",
+  "explorer.compactFolders": false,
+  "extensions.ignoreRecommendations": true,
+  "git.openRepositoryInParentFolders": "always",
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.hovers.autolinks.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.hovers.avatars": false,
+  "gitlens.views.stashes.files.layout": "tree",
+  "gitlens.blame.avatars": false,
+  "gitlens.heatmap.locations": ["gutter", "overview"],
+  "gitlens.statusBar.enabled": false,
+  "gitlens.hovers.pullRequests.enabled": false,
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command", "switch:command"],
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "projectManager.showParentFolderInfoOnDuplicates": true,
+  "projectManager.openInNewWindowWhenClickingInStatusBar": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.insertEnclosingClass": false,
+  "turboConsoleLog.insertEnclosingFunction": false,
+  "turboConsoleLog.logMessagePrefix": "%c",
+  "turboConsoleLog.logMessageSuffix": "', 'font-weight: bold; text-transform: uppercase; color: #50fa7b",
+  "turboConsoleLog.quote": "'",
+  "totalTypeScript.hideAllTips": true,
+  "totalTypeScript.hideBasicTips": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.labelFormat": "short",
+  "workbench.colorTheme": "dPlanets Contrast Mercury",
+  "workbench.iconTheme": "origamid-next-icons",
+  "workbench.colorCustomizations": {},
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top",
+  "editor.unicodeHighlight.allowedCharacters": {
+    " ": true
+  },
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[prisma]": {"editor.formatOnSave": true},
+  "files.autoSave": "afterDelay",
+}

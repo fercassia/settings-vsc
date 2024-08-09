@@ -90,6 +90,7 @@
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "workbench.editor.labelFormat": "short",
+  "workbench.tree.indent": 14,
   "workbench.colorTheme": "dPlanets Contrast Mercury",
   "workbench.iconTheme": "origamid-next-icons",
   "workbench.colorCustomizations": {},

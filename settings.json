@@ -1,7 +1,8 @@
 {
   "breadcrumbs.enabled": true,
   "cSpell.language": "en,pt,pt_BR",
-  "editor.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace",
+  // Deve instalar a fonte
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 12.5,
   "editor.lineHeight": 1.8,
   "editor.fontVariations": false,
@@ -91,7 +92,7 @@
   "workbench.layoutControl.enabled": false,
   "workbench.editor.labelFormat": "short",
   "workbench.tree.indent": 14,
-  "workbench.colorTheme": "dPlanets Contrast Mercury",
+  "workbench.colorTheme": "Vesper",
   "workbench.iconTheme": "origamid-next-icons",
   "workbench.colorCustomizations": {},
   "workbench.startupEditor": "newUntitledFile",
@@ -109,4 +110,8 @@
   },
   "[prisma]": {"editor.formatOnSave": true},
   "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "amazonQ.suppressPrompts": {
+    "amazonQSessionConfigurationMessage": true
+  },
 }
